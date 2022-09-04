@@ -1,0 +1,2 @@
+# NumbersWithSameConsecutiveDifferences
+Numbers With Same Consecutive Differences
